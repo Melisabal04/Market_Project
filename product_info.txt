@@ -1,0 +1,15 @@
+1)Product Name: masa
+1)Price: 247.48
+1)Category: Mobilya
+1)Stock: 45
+1)Barkod Num: 45632538
+2)Product Name: sandalye
+2)Price: 23.99
+2)Category: mobilya
+2)Stock: 35
+2)Barkod Num: 45632558
+3)Product Name: koltuk
+3)Price: 550.00
+3)Category: mobilya
+3)Stock: 46
+3)Barkod Num: 15153154
